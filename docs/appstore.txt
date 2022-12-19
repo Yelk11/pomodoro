@@ -1,0 +1,22 @@
+Name: Pomodoor
+
+Summery:
+
+Pomo
+
+
+
+
+Description:
+
+Tic Toc Tic Toc .... Study time is here!!
+
+HOW TO USE:
+- Get your study materials or task ready
+- Press play to start (The timer will automatically change the different zones)
+    - FOCUS ZONE: 25 Minute timer
+    - SHORT BREAK TIME: 5 minute timer
+    - LONG BREAK TIME: 30 Minutes (after two cycles of FOCUS and SHORT BREAK)
+
+This App does not have a lot of features because it doesnt want to take up your timer.
+Our goal is to get you focusing on you and less on your phone. If you forget that you had this running, we have done our job!
